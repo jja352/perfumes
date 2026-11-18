@@ -1,0 +1,6 @@
+{
+  "name": "Maison Aurélia — Haute Parfumerie",
+  "description": "Luxury fragrance boutique featuring artisanal extraits de parfum, personalized scent discovery, and curated Parisian collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
